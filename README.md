@@ -57,7 +57,7 @@ A web portal where users register their smartphones, get an automatic price esti
 4. Open `includes/db.php` and make sure the database name matches the one you created. The default XAMPP login is user `root` with an empty password.
 5. Visit `http://localhost/portal/login.php`.
 
-> Test login details: *add a sample admin and user from your database here.*
+
 
 ## Project Structure
 
